@@ -76,5 +76,3 @@ Hope this helps! Let me know if you run into any issues.
 
 Honestly, this looks pretty good, especially considering it's just an 8B model!
 ```
-
-This Markdown format organizes the content with headings, lists, code blocks, and quotes for better readability.
