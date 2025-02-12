@@ -75,4 +75,3 @@ Hope this helps! Let me know if you run into any issues.
 > *r/macapps - Got DeepSeek R1 running locally - Full setup guide and my personal review (Free OpenAI o1 alternative that runs locally??)*
 
 Honestly, this looks pretty good, especially considering it's just an 8B model!
-```
